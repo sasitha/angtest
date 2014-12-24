@@ -2,7 +2,7 @@
   "name": "Example",
   "namelower": "example",
   "version": "0.0.1",
-  "description": "Example folder structure",
+  "description": "An example AngularJS project",
   "readme": "README.md",
   "repository": {
     "type": "git",
