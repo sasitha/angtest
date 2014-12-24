@@ -6,7 +6,7 @@
   "readme": "README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sasitha/angtest.git"
+    "url": "git@github.com:sasitha/angtest.git"
   },
   "devDependencies": {
     "grunt": "0.4.2",
